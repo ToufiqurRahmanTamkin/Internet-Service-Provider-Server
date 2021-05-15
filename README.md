@@ -1,4 +1,4 @@
-# internet-service-provider-server
+# Internet-Service-Provider (backend-server)
 
 This is the backend server for the Internet Service Provider.
 This is developed by using node JS, Express JS, and MongoDB.
