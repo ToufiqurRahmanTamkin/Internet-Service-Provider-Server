@@ -86,10 +86,8 @@ client.connect((err) => {
       bookingCollection
          .updateOne(
             { _id: ObjectId(req.params.id) },
-            {
-               $set: { bookingStatus: req.body.updateValue },
-            }
-         )
+            { $set: { bookingStatus: req.body.updateValue }, 
+         })
          .then((result) => {
             res.send(result.matchedCount > 0);
          });
