@@ -1,9 +1,28 @@
-# Internet-Service-Provider (backend-server)
+# **Internet Service Providing**
 
-This is the backend server for the Internet Service Provider.
-This is developed by using node JS, Express JS, and MongoDB.
-I also use some external libraries like cors as middleware and environment variables.
+### Front-end Technology :
 
-Here in this server, all the functionality is stored into MongoDB, and all the data is getting to the frontend are come from MongoDB.
+- **React, React-Router-Dom**
+- **material-UI, font awesome icons, stripe**
+- **Firebase auth**
+- **React-Bootstrap**
+- **HTML5, CSS3**
 
-[Internet Service Provider client-side repository](https://github.com/ToufiqurRahmanTamkin/internet-service-provider-client)
+### Back-end Technology :
+
+- **Node JS**
+- **Express**
+- **MongoDB**
+
+<img  width="100%"  height="100%"  src="https://i.ibb.co/Zd2yN4Z/1.png"/>
+<img  width="100%"  height="100%"  src="https://i.ibb.co/PZzCgpS/2.png"/>
+<img  width="100%"  height="100%"  src="https://i.ibb.co/89wpP3K/3.png"/>
+<img  width="100%"  height="100%"  src="https://i.ibb.co/ZzP4DHd/4.png"/>
+<img  width="100%"  height="100%"  src="https://i.ibb.co/DYHDz2Q/5.png"/>
+<img  width="100%"  height="100%"  src="https://i.ibb.co/1KyW2wK/6.png"/>
+
+<hr/>
+
+**[Internet Service Provider client-side repository](https://github.com/ToufiqurRahmanTamkin/internet-service-provider-client)**
+
+<hr/>
